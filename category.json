@@ -1,0 +1,31 @@
+[
+    {
+        "id":1,
+        "name":"Fruits & Vegetables"
+    },
+    {
+        "id":2,
+        "name":"Foodgrains, Oil & Masala"
+    },
+    {
+        "id":3,
+        "name":"Bakery & Dairy"
+    },
+    {
+        "id":4,
+        "name":"Beverages"
+    },
+    {
+        "id":5,
+        "name":"Beauty & Hygiene"
+    },
+    {
+        "id":6,
+        "name":"Cleaning & Household"
+    },
+    {
+        "id":7,
+        "name":"Snacks & Branded Foods"
+    }
+    
+]

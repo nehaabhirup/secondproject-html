@@ -1,0 +1,170 @@
+[
+    {
+        "id":1,
+        "name":"Apple",
+        "image":"https://i.ibb.co/3zw3k9c/apple.jpg",
+        "qty": "",
+        "price":"124"
+    },
+    {
+        "id":1,
+        "name":"Orange",
+        "image":"https://i.ibb.co/vvPkqj5/orange.jpg",
+        "qty": "",
+        "price":"109"
+    },
+    {
+        "id":1,
+        "name":"Banana",
+        "image":"https://i.ibb.co/jLgrP6T/banana.jpg",
+        "qty": "",
+        "price":""
+    },
+    {
+        "id":1,
+        "name":"Grapes",
+        "image":"https://i.ibb.co/GMBFBxb/grapes.jpg",
+        "qty": "47",
+        "price":""
+    },
+    {
+        "id":1,
+        "name":"Pomegranate",
+        "image":"https://i.ibb.co/ByZBxk8/pomegranate.jpg",
+        "qty": "",
+        "price":"183"
+    },
+    {
+        "id":1,
+        "name":"Watermelon",
+        "image":"https://i.ibb.co/1J1LKRm/Watermelon.jpg",
+        "qty": "",
+        "price":"57"
+    },
+    {
+        "id":1,
+        "name":"Pear",
+        "image":"https://i.ibb.co/fx86RYn/pear.jpg",
+        "qty": "",
+        "price":"129"
+    },
+    {
+        "id":1,
+        "name":"Coconut",
+        "image":"https://i.ibb.co/s3fBMqH/coconut.jpg",
+        "qty": "",
+        "price":"37"
+    },
+    {
+        "id":1,
+        "name":"Guava",
+        "image_url":"https://i.ibb.co/PtQ6dWf/guava.jpg",
+        "qty": "",
+        "price":"74"
+    },
+    {
+        "id":1,
+        "name":"Pineapple",
+        "image_url":"https://i.ibb.co/fp76q7b/pineapple.jpg",
+        "qty": "",
+        "price":"104"
+    },
+    {
+        "id":1,
+        "name":"Mosambi",
+        "image_url":"https://i.ibb.co/KGWLB3D/mosumbi.png",
+        "qty": "",
+        "price":"92"
+    },
+    {
+        "id":1,
+        "name":"Musk Melon",
+        "image_url":"https://i.ibb.co/DDHqjMN/muskmelon.jpg",
+        "qty": "",
+        "price":"44"
+    },
+    {
+        "id":1,
+        "name":"Onion",
+        "image_url":"https://i.ibb.co/q9KrXd8/onion.jpg",
+        "qty": "",
+        "price":"27"
+    },
+    {
+        "id":1,
+        "name":"Tomato",
+        "image_url":"https://i.ibb.co/q9KrXd8/onion.jpg",
+        "qty": "",
+        "price":"29"
+    },
+    {
+        "id":1,
+        "name":"Potato",
+        "image_url":"https://i.ibb.co/Y0T5sk2/potato.jpg",
+        "qty": "",
+        "price":"24"
+    },
+    {
+        "id":1,
+        "name":"Cauliflower",
+        "image_url":"https://i.ibb.co/82j9fh0/flower.jpg",
+        "qty": "22",
+        "price":""
+    },
+    {
+        "id":1,
+        "name":"Green Peas",
+        "image_url":"https://i.ibb.co/TcPrpKM/green-peas.jpg",
+        "qty": "",
+        "price":"55"
+    },
+    {
+        "id":1,
+        "name":"Lady Finger",
+        "image_url":"https://i.ibb.co/Tq3G7nm/lady-finger.jpg",
+        "qty": "",
+        "price":"44"
+    },
+    {
+        "id":1,
+        "name":"Garlic",
+        "image_url":"https://i.ibb.co/tzLcKkY/garlic.jpg",
+        "qty": "",
+        "price":"50"
+    },
+    {
+        "id":1,
+        "name":"Lemon",
+        "image_url":"https://i.ibb.co/B3b1Jv5/lemon.jpg",
+        "qty": "",
+        "price":"47"
+    },
+    {
+        "id":1,
+        "name":"Capsicum",
+        "image_url":"https://i.ibb.co/gWchhSr/capsicum.jpg",
+        "qty": "",
+        "price":"74"
+    },
+    {
+        "id":1,
+        "name":"Cabbage",
+        "image_url":"https://i.ibb.co/4F4Jdv5/cabbage.jpg",
+        "qty": "",
+        "price":"20"
+    },
+    {
+        "id":1,
+        "name":"Brinjal",
+        "image_url":"https://i.ibb.co/wh1C6BK/brinjal.jpg",
+        "qty": "",
+        "price":"25"
+    },
+    {
+        "id":1,
+        "name":"Chilli",
+        "image_url":"https://i.ibb.co/cQ4MDxT/chilli.jpg",
+        "qty": "",
+        "price":"25"
+    }
+]
